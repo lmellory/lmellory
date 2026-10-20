@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="assets/banner-mobile.svg">
-    <img src="assets/banner.svg" width="100%" alt="lmellory — Telegram Mini Apps, боты и веб-приложения">
+    <source media="(max-width: 640px)" srcset="assets/banner-mobile.svg?v=2">
+    <img src="assets/banner.svg?v=2" width="100%" alt="lmellory — Telegram Mini Apps, боты и веб-приложения">
   </picture>
 </p>
 
